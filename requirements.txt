@@ -1,6 +1,8 @@
 numpy
 pandas
 streamlit
+pickle
+joblib
 scikit-learn
 xgboost
 lightgbm
