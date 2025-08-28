@@ -90,19 +90,19 @@ if st.button('Calculate Price Range'):
 
 # ------------------------------ Footer --------------------------------- 
 
-with st.sidebar:
-    st.markdown("#### 👤 Murali Krishna")
-    st.markdown("AI Engineer | Data Science Enthusiast")
+# with st.sidebar:
+#     st.markdown("#### 👤 Murali Krishna")
+#     st.markdown("AI Engineer | Data Science Enthusiast")
 
-st.markdown("<h4 style='color: gray; text-align: right;'>Developed by <i>Murali Krishna</i></h4>", unsafe_allow_html=True)
+# st.markdown("<h4 style='color: gray; text-align: right;'>Developed by <i>Murali Krishna</i></h4>", unsafe_allow_html=True)
 
-st.markdown("""
-<hr>
-<p style='text-align: center;'>
-    <strong>Murali Krishna</strong> | <a href='https://github.com/reachmurali2'>Github</a> | <a href='https://www.linkedin.com/in/murali-krishna-reddy-b-37687979/' target='_blank'>LinkedIn</a> | 
-    <a href='mailto:reachmurali2@gmail.com'>Email</a> 
-</p>
-""", unsafe_allow_html=True)
+# st.markdown("""
+# <hr>
+# <p style='text-align: center;'>
+#     <strong>Murali Krishna</strong> | <a href='https://github.com/reachmurali2'>Github</a> | <a href='https://www.linkedin.com/in/murali-krishna-reddy-b-37687979/' target='_blank'>LinkedIn</a> | 
+#     <a href='mailto:reachmurali2@gmail.com'>Email</a> 
+# </p>
+# """, unsafe_allow_html=True)
 
 st.markdown("---")
 st.markdown("""
@@ -114,3 +114,4 @@ st.markdown("""
     
 </div>
 """, unsafe_allow_html=True)
+
